@@ -36,6 +36,9 @@ int main()
 	  printf("%d\n",ans);
 
 	  }
+asdasdasdasdsdvasuidvbijasbvihbashiv s
+scv basjidvbioasdbviu
+snbdvvisndvoasJIDV
   }
 
     return 0;
